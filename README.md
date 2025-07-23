@@ -1,5 +1,3 @@
-# 📊 Multiple Regression Computing Project
-
 By Arjun Talapatra
 
 This project uses regression analysis and statistical modeling techniques in **R** to explore relationships between independent and dependent variables in incomplete datasets. It is divided into two parts:
